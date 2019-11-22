@@ -1,0 +1,15 @@
+{
+  "name": "editorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@editorjs/editorjs": "^2.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak sisodiya",
+  "license": "ISC"
+}
