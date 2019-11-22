@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "json-formatter-js": "^2.2.1"
+  },
   "devDependencies": {
     "@editorjs/editorjs": "^2.15.1",
     "@editorjs/header": "^2.3.1",
