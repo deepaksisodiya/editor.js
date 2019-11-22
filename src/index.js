@@ -1,6 +1,9 @@
 import EditorJS from '@editorjs/editorjs';
 import Header from '@editorjs/header';
 import List from '@editorjs/List';
+import SimpleImage from '@editorjs/simple-image';
+
+
 
 const editor = new EditorJS({
   headerId: 'editorjs',
@@ -15,5 +18,6 @@ const editor = new EditorJS({
       class: List,
       inlineToolbar: true,
     },
+    image: SimpleImage,
   },
 });
