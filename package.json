@@ -27,7 +27,7 @@
     "@editorjs/table": "^1.2.0",
     "@editorjs/warning": "^1.1.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
